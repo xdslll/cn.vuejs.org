@@ -3,7 +3,7 @@
 ## Source: https://github.com/tommy351/hexo/
 
 # Site
-title: Vue.js
+title: Vue.js ( Sam Version )
 subtitle:
 description: "The Progressive JavaScript Framework"
 author: Evan You
@@ -12,7 +12,7 @@ language: zh-CN
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://cn.vuejs.org
+url: https://vue.youbaobao.xyz
 root: /
 permalink: :year/:month/:day/:title/
 tag_dir: tags
